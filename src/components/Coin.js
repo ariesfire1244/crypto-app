@@ -12,6 +12,6 @@ export function Coin ({name, icon, price, symbol}){
         </div>
     )
 }
-export default Coin 
+export default Coin; 
 
 
